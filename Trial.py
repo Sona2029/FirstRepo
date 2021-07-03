@@ -7,3 +7,6 @@ print("1st day")
 print("Successful")
 
 print("Welcome back Sonali")
+
+
+print("Bye")
